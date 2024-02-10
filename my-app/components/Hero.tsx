@@ -33,8 +33,8 @@ const Hero = (props: Props) => {
             fill className='object-contain'
             alt='hero-image'
           />
-          <div className='hero__image-overlay' />
         </div>
+        <div className='hero__image-overlay' />
       </div>
     </div>
   )
